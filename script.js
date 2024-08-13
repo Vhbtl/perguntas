@@ -8,7 +8,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Em uma prova que haverá na escola, você estuda pra faze-la ou prefere colar na hora da prova? ",
+        enunciado: "..Tá na hora de se transformar!",
         alternativas: [
             {
                 texto: "Prefiro estudar para faze-la",
