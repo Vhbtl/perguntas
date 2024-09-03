@@ -21,28 +21,28 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Em caso de assalto a sua pessoa como você irá reagir?",
+        enunciado: "qual a frase popular do personagem pirata de bob esponja",
         alternativas: [
             {
-                texto: "Eu iria reagir contra o assaltante armardo",
-                afirmacao: "Parabéns, você morreu"
+                texto: "eu nao ouvi direitoo",
+                afirmacao: "acertou"
             },
             {
-                texto: "Eu obedeceria suas ordens durante o assalto",
-                afirmacao: "Você sobrevive, porém perde alguns bens"
+                texto: "eu tenho a forçaaa",
+                afirmacao: "errou"
             }
         ]
     },
     {
-        enunciado: "Em uma pandemia de uma certa doença fatal, você continua a frequentar festas e eventos? ",
+        enunciado: "qual a frase popular do personagem super choque de super choque ",
         alternativas: [
             {
-                texto: "Sim  ",
-                afirmacao: "Você agiu de forma irresponsável e se contaminou com a doença"
+                texto: "eu vou dar choque no seu sistema",
+                afirmacao: "acertou"
             },
             {
-                texto: "Não",
-                afirmacao: "Prefiriu evitar o contato com pessoas e passa a pendemia sem se contrair o vírus"
+                texto: "nada vale mais que uma amizade idiota",
+                afirmacao: "errou"
             }
         ]
     },
