@@ -1,4 +1,4 @@
-const caixaPrincipal = document.querySelector(".caixa-principal");
+,const caixaPrincipal = document.querySelector(".caixa-principal");
 const caixaPerguntas = document.querySelector(".caixa-perguntas");
 const caixaAlternativas = document.querySelector(".caixa-alternativas");
 const caixaResultado = document.querySelector(".caixa-resultado");
@@ -8,7 +8,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Em uma prova que ira acontecer, voçê prefere estudar ou colar?",
+        enunciado: "qual a frase popular de cada desenho",
         alternativas: [
             {
                 t0exto: "Prefiro estudar para faze-la",
