@@ -8,15 +8,15 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "qual a frase popular de cada desenho",
+        enunciado: "qual a frase popular do personagem benjamin tenison de ben 10",
         alternativas: [
             {
-                t0exto: "Prefiro estudar para faze-la",
-                afirmacao: "Você tem uma boa nota e aprende sobre o conteúdo"
+                t0exto: "Prefiro morrer doque perder a vida",
+                afirmacao: "errado"
             },
             {
-                texto: "Prefiro colar na hora da prova",
-                afirmacao: "Você tem uma boa nota, porém não aprenda nada sobre o conteúdo"
+                texto: "É hora de virar heroi",
+                afirmacao: "acertou"
             }
         ]
     },
