@@ -42,7 +42,7 @@ const perguntas = [
             },
             {
                 texto: "Nada vale mais que uma amizade, idiota.",
-                afirmacao: "A frase é de Karl Marx."
+                afirmacao: "A frase é de Karl o Marx."
             }
         ]
     },
