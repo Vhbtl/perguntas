@@ -16,7 +16,7 @@ const perguntas = [
             },
             {
                 texto: "É hora de virar heroi!",
-                afirmacao: "Você conhece de Ben 10!"
+                afirmacao: "Você é burro de mais !"
             }
         ]
     },
@@ -29,7 +29,7 @@ const perguntas = [
             },
             {
                 texto: "Eu tenho a força!",
-                afirmacao: "A frase é do He-Man."
+                afirmacao: "Você é burro de mais "
             }
         ]
     },
@@ -38,11 +38,11 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Eu vou dar choque no seu sistema!",
-                afirmacao: "Você conhece de Super Choque!"
+                afirmacao: "Você é burro de mais "
             },
             {
                 texto: "Nada vale mais que uma amizade, idiota.",
-                afirmacao: "A frase é de Karl, o Marx."
+                afirmacao: "Você é burro de mais ."
             }
         ]
     },
