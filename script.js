@@ -11,11 +11,11 @@ const perguntas = [
         enunciado: "Qual a frase popular do personagem Benjamin Tenison do desenho Ben 10?",
         alternativas: [
             {
-                texto: "Prefiro morrer do que perder a vida",
-                afirmacao: "A frase é do Chapolin Colorado"
+                texto: "Prefiro morrer do que perder a vida!",
+                afirmacao: "A frase é do Chapolin Colorado."
             },
             {
-                texto: "É hora de virar heroi",
+                texto: "É hora de virar heroi!",
                 afirmacao: "Você conhece de Ben 10!"
             }
         ]
@@ -24,25 +24,25 @@ const perguntas = [
         enunciado: "Qual a frase popular do personagem Pirata do desenho Bob Esponja?",
         alternativas: [
             {
-                texto: "Eu não ouvi direito",
+                texto: "Eu não ouvi direito!",
                 afirmacao: "Você conhece de Bob Esponja!"
             },
             {
-                texto: "Eu tenho a forçaa",
-                afirmacao: "A frase é do He-Man"
+                texto: "Eu tenho a força!",
+                afirmacao: "A frase é do He-Man."
             }
         ]
     },
     {
-        enunciado: "Qual a frase popular do personagem Super Choque do desenho Super Choque ",
+        enunciado: "Qual a frase popular do personagem Super Choque do desenho Super Choque?",
         alternativas: [
             {
-                texto: "Eu vou dar choque no seu sistema",
+                texto: "Eu vou dar choque no seu sistema!",
                 afirmacao: "Você conhece de Super Choque!"
             },
             {
-                texto: "Nada vale mais que uma amizade, idiota",
-                afirmacao: "Essa frase é de Karl Marx"
+                texto: "Nada vale mais que uma amizade, idiota.",
+                afirmacao: "Essa frase é de Karl Marx."
             }
         ]
     },
