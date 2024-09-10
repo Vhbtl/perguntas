@@ -82,7 +82,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = " Um ano depois...";
+    caixaPerguntas.textContent = " Parabens voçê completou o desafio";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
