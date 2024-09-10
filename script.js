@@ -12,7 +12,7 @@ const perguntas = [
         alternativas: [
             {
                 t0exto: "Prefiro morrer doque perder a vida",
-                afirmacao: "errado"
+                afirmacao: "errou"
             },
             {
                 texto: "É hora de virar heroi",
