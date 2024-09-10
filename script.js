@@ -11,7 +11,7 @@ const perguntas = [
         enunciado: "Qual a frase popular do personagem Benjamin Tenison do desenho Ben 10?",
         alternativas: [
             {
-                t0exto: "Prefiro morrer doque perder a vida",
+                texto: "Prefiro morrer doque perder a vida",
                 afirmacao: "A frase é do Chapolin Colorado"
             },
             {
