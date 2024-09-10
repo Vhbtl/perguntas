@@ -8,41 +8,41 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "qual a frase popular do personagem benjamin tenison de ben 10",
+        enunciado: "Qual a frase popular do personagem Benjamin Tenison do desenho Ben 10?",
         alternativas: [
             {
                 t0exto: "Prefiro morrer doque perder a vida",
-                afirmacao: "errou"
+                afirmacao: "A frase é do Chapolin Colorado"
             },
             {
                 texto: "É hora de virar heroi",
-                afirmacao: "acertou"
+                afirmacao: "Você conhece de Ben 10!"
             }
         ]
     },
     {
-        enunciado: "qual a frase popular do personagem pirata de bob esponja",
+        enunciado: "Qual a frase popular do personagem Pirata do desenho bob esponja?",
         alternativas: [
             {
-                texto: "eu nao ouvi direitoo",
-                afirmacao: "acertou"
+                texto: "Eu não ouvi direito",
+                afirmacao: "Você conhece de Bob Esponja!"
             },
             {
-                texto: "eu tenho a forçaaa",
-                afirmacao: "errou"
+                texto: "Eu tenho a forçaa",
+                afirmacao: "A frase é do He-Man"
             }
         ]
     },
     {
-        enunciado: "qual a frase popular do personagem super choque de super choque ",
+        enunciado: "Qual a frase popular do personagem Super Choque do desenho Super Choque ",
         alternativas: [
             {
-                texto: "eu vou dar choque no seu sistema",
-                afirmacao: "acertou"
+                texto: "Eu vou dar choque no seu sistema",
+                afirmacao: "Você conhece de Super Choque!"
             },
             {
-                texto: "nada vale mais que uma amizade idiota",
-                afirmacao: "errou"
+                texto: "Nada vale mais que uma amizade, idiota",
+                afirmacao: "Essa frase é de Karl Marx"
             }
         ]
     },
