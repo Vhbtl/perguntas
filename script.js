@@ -21,7 +21,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Qual a frase popular do personagem Pirata do desenho bob esponja?",
+        enunciado: "Qual a frase popular do personagem Pirata do desenho Bob Esponja?",
         alternativas: [
             {
                 texto: "Eu não ouvi direito",
